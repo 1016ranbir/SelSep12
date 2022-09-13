@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-02T15:24:11 MDT" name="Default suite" finished-at="2022-09-02T15:24:25 MDT" duration-ms="14284">
+    <groups>
+    </groups>
+    <test started-at="2022-09-02T15:24:11 MDT" name="Default test" finished-at="2022-09-02T15:24:25 MDT" duration-ms="14284">
+      <class name="com.webappsecurity.zero.testscripts.VerifyFundTransferTest">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:com.webappsecurity.zero.testscripts.VerifyFundTransferTest@3e11f9e9]" started-at="2022-09-02T15:24:11 MDT" name="openApplication" finished-at="2022-09-02T15:24:14 MDT" duration-ms="3054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="VerifyTransferFund()[pri:0, instance:com.webappsecurity.zero.testscripts.VerifyFundTransferTest@3e11f9e9]" started-at="2022-09-02T15:24:14 MDT" name="VerifyTransferFund" finished-at="2022-09-02T15:24:25 MDT" duration-ms="10830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTransferFund -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.webappsecurity.zero.testscripts.VerifyFundTransferTest@3e11f9e9]" started-at="2022-09-02T15:24:25 MDT" name="closeApplication" finished-at="2022-09-02T15:24:25 MDT" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.webappsecurity.zero.testscripts.VerifyFundTransferTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
